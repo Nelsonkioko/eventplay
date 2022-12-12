@@ -1,5 +1,5 @@
 # Eventsplay 
-This is an application to *view events* made with *React Native*.
+This is an application to *view events* made with *React Native* and *ReduxToolKit*.
 
 # Installation
 1. git clone https://github.com/Nelsonkioko/eventplay.git
