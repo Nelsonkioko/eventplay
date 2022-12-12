@@ -6,7 +6,7 @@ This is an application to *view events* made with *React Native* and *ReduxToolK
 to clone the repository
 
 2. npm install
-to intall the project dependencies
+to install the project dependencies
 
 3. npm run start
 to start the metro cli
